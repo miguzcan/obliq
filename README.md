@@ -1,5 +1,6 @@
 ;=========================================================================
 ;; BNF grammar fo the language Obliq
+
 ;; 
 ;;
 ;;<programa> ::= <expresion>
